@@ -35,3 +35,6 @@ The interactive dashboard provides stakeholders with a user-friendly platform to
 **Additional Details:**
 The project focused on analyzing sales, marketing, or operational data, depending on the specific needs of the organization.
 Emphasized the importance of data-driven decision-making and the role of visualization in enhancing data comprehension and communication.
+
+
+[Open Dashborad pdf](https://github.com/JIVITESH2003/pizzasales_project/blob/4415549c90a9575d8185b9c04f8e7a30bceab8da/dashboard.pdf)
